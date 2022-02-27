@@ -1,0 +1,1 @@
+# Write-a-Java-program-to-remove-elements-from-an-ArrayList
